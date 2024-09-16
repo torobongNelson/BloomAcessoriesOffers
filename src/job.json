@@ -1,0 +1,50 @@
+
+    {
+      "job": [
+      {
+        "id": "1",
+        "title": "Acessory Designer",
+        "type": "Full-Time",
+        "description": "We are seeking a dedicated and detail-oriented Accessories Specialist to join our team in Boston, MA. ",
+        "location": "Lagos, Nigeria",
+        "salary": "$70K - $80K",
+        "company": {
+          "name": "Bloom Acessories China",
+          "description": "Create visually appealing displays for accessories to enhance the shopping experience. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+          "contactEmail": "contact@teksolutions.com",
+          "contactPhone": "070-3646-7832"
+        }
+      },
+      {
+        "id": "2",
+        "title": "Acessory Retailer",
+        "type": "Full-Time",
+        "location": "FCT, Abuja",
+        "description": "We are seeking a dedicated and detail-oriented Accessories Specialist to join our team in Boston",
+        "salary": "$70K - $80K",
+        "company": {
+          "name": "Bloom Acessories UK",
+          "description": "Create visually appealing displays for accessories to enhance the shopping experience. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment",         
+            "contactEmail": "contact@loremipsum.com",
+          "contactPhone": "070-3646-7832"
+        }
+      },
+      {
+        "id": "3",
+        "title": "Brand Location Strategist",
+        "type": "Full-Time",
+        "location": "Asaba, Delta",
+        "description": "We are seeking a dedicated and detail-oriented Accessories Specialist to join our team in Boston",
+        "salary": "$70K - $80K",
+        "company": {
+          "name": "Bloom Acessories Australia",
+          "description": "Create visually appealing displays for accessories to enhance the shopping experience. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+          "contactEmail": "contact@dolorsitamet.com",
+          "contactPhone": "070-3646-7832"
+        }
+      }
+      
+      
+    ]
+  }
+  
